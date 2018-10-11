@@ -1,5 +1,5 @@
 # pytorch2sql
 
-SQL generatrion for deploying PyTorch models 
+SQL generation for deploying PyTorch models 
 
 Very experimental ....
