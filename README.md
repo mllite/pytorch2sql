@@ -9,3 +9,5 @@ It supports basic pytorch models (keras core layers and activation functions) fo
 https://github.com/antoinecarme/sklearn2sql-demo
 
 https://github.com/antoinecarme/sklearn2sql_heroku
+
+Demo script : https://github.com/antoinecarme/pytorch2sql/blob/master/test_client.py
